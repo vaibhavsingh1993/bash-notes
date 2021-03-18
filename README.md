@@ -1,5 +1,5 @@
 # bash-notes
-Advanced Bash notes
+Advanced Bash notes https://www.youtube.com/watch?v=emhouufDnB4
 
 Tilde expansion https://www.gnu.org/software/bash/manual/html_node/Tilde-Expansion.html
 
